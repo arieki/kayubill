@@ -1,6 +1,7 @@
 # 🪵 KayuBill
 
 > Headless billing engine for subscriptions, invoicing, and payment orchestration.
+
 > 🚧 **Status:** Early development (v0.x). APIs and interfaces may change.
 
 ---
